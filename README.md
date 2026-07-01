@@ -102,9 +102,6 @@ nycklar. Allt centraliseras i [`lib/paths.php`](lib/paths.php).
 Kör betalda/mätta integrationer (Claude, Sentinel Hub)? **Håll IP-lockdownen på.**
 Kontaktformulär och RSS omfattas av lockdownen — är sidan låst går de inte att nå.
 
-Detaljer: [`lumos_architecture.md`](lumos_architecture.md) och
-[`incident_response.md`](incident_response.md).
-
 ---
 
 ## AI & kostnad
