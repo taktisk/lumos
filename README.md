@@ -99,9 +99,6 @@ nycklar. Allt centraliseras i [`lib/paths.php`](lib/paths.php).
 | Transport | HTTPS + HSTS, per-fil CSP med nonce |
 | Kostnad | IP-lockdown + `CLAUDE_MONTHLY_TOKEN_LIMIT` + AI-strömbrytare |
 
-Kör betalda/mätta integrationer (Claude, Sentinel Hub)? **Håll IP-lockdownen på.**
-Kontaktformulär och RSS omfattas av lockdownen — är sidan låst går de inte att nå.
-
 ---
 
 ## AI & kostnad
