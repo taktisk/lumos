@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTE: The Lumos source code is licensed under MIT. However, Lumos integrates
+several third-party data feeds, APIs and libraries that carry their own terms,
+licenses and attribution requirements. The MIT license above covers ONLY the
+Lumos code itself — it does not grant you any rights to the third-party data or
+services. See CREDITS.md for the full list and each provider's terms before
+deploying publicly.
